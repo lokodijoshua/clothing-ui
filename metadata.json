@@ -1,0 +1,6 @@
+{
+  "name": "prmpt",
+  "description": "Full-screen, scroll-driven fashion and archive landing page with dynamic video scrubbing, multi-phase animations, and custom cursor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
